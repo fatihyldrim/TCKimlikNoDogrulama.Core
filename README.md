@@ -25,3 +25,7 @@ bool cevap = new TCKimlikNoDogrulamaCORE(01234567890, "Adı", "Soyadı", 1900).K
 ```csharp      
 bool cevap = new TCKimlikNoDogrulamaCORE(01234567890).TCAlgoritmasi();
 ```
+
+# Lisans
+
+https://miraz.com.tr
