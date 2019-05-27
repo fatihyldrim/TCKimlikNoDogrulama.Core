@@ -3,9 +3,15 @@
 *.Net Core 2 için nuget paket projesidir.* 
 
 TC Kimlik Numarası için Algoritma doğrulaması yapılabilir. 
-Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünden kişi doğrulaması yapabilir. 
+Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünden (Mernis) kişi doğrulaması yapabilir. 
 
 # Kullanımı
+
+TCKimlikNoDogrulama.Core - namespace olarak eklenir.
+
+```csharp      
+using TCKimlikNoDogrulama.Core;
+```
 
 1 - Nüfus ve Vatandaşlık İşleri Genel Müdürlüğüne (Mernis) TC Kimlik Numarası, Ad, Soyad ve Doğum Yılı göndererek kişinin Türkiye Cumhuriyeti kayıtlarında olup olmadığını doğrular. 
 
