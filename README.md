@@ -5,6 +5,8 @@
 TC Kimlik Numarası için Algoritma doğrulaması yapılabilir. 
 Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünden (Mernis) kişi doğrulaması yapabilir. 
 
+https://www.nuget.org/packages/TCKimlikNoDogrulama.Core/
+
 # Kullanımı
 
 TCKimlikNoDogrulama.Core - namespace olarak eklenir.
