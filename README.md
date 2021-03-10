@@ -1,6 +1,6 @@
 # TCKimlikNoDogrulama.Core
 
-*.Net Core 2 için nuget paket projesidir.* 
+*.Net / .Net Core için nuget paket projesidir.* 
 
 TC Kimlik Numarası için Algoritma doğrulaması yapılabilir. 
 Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünden (Mernis) kişi doğrulaması yapabilir. 
@@ -30,4 +30,4 @@ bool cevap = new TCKimlikNoDogrulamaCORE(01234567890).TCAlgoritmasi();
 
 # Lisans
 
-https://miraz.com.tr
+MIT
